@@ -1,0 +1,40 @@
+_repo: The-fire-in-the-flint_69877
+_version: 0.0.1
+creator:
+  author:
+    agent_name: White, Walter
+    aliases:
+    - White, Walter Francis
+    - White, Walter F.
+    birthdate: 1893
+    deathdate: 1955
+    gutenberg_agent_id: '55470'
+    url: http://www.gutenberg.org/2009/agents/55470
+    wikipedia: https://en.wikipedia.org/wiki/Walter_White_(NAACP)
+description: ''
+gutenberg_issued: '2023-01-25'
+identifiers:
+  gutenberg: '69877'
+  lccn: '24021400'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/001188325?type%5B%5D=all&lookfor%5B%5D=the%20fire%20in%20the%20flint&ft=ft
+pgterms:marc905: 20230124112430walter
+pgterms:marc906: '1924'
+pgterms:marc907: US
+production_note: Neal Caren. This file was derived from images generously made available
+  by the University of Michigan through the HathiTrust.
+publication_note: 'United States: Alfred A. Knopf,1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bildungsromans'
+- !lcsh 'Young men -- Fiction'
+- !lcsh 'Medical fiction'
+- !lcsh 'Race relations -- Fiction'
+- !lcsh 'Georgia -- Fiction'
+- !lcsh 'African American physicians -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The fire in the flint
+url: http://www.gutenberg.org/ebooks/69877
